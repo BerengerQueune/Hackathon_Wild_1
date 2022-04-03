@@ -11,3 +11,5 @@ To summarize the scenario in few words, we wanted to create a tool that a music 
 To help get a feel of the different characteristics, it is possible to select a band or artist name, and then one of its songs, to automatically populate its data into the sliders, and start from that. After clicking on the button, the algorithm (a Random Forest Classifier) will predict the popularity of the song after few seconds, and show the results in the form of bank notes.
 
 If you would like to clone or fork this project, and run it locally, please install the requirements from the dedicated requirements.txt file, and the run at the root of the folder the command: streamlit run app.py
+
+The app is available here: https://data-yoyo.herokuapp.com/
